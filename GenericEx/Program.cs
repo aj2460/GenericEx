@@ -4,7 +4,7 @@ namespace GenericEx
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main_temp(string[] args)
         {
             string  ans =  Calculator.AreTheyEqual<int>(10, 20)?"True":"False";
             Console.WriteLine(ans);
