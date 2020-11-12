@@ -6,7 +6,7 @@ namespace GenericEx1
 {
     class ToStringMetodImplimentation
     {
-        public static void Main()
+        public static void Main_temp()
         {
             Customer c1 = new Customer();
             c1.FirstName = "Sam";
